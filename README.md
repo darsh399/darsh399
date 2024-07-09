@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darsh399
-- 👀 I’m interested in java
+- 👀 I’m interested in core java ,react,node.js
 - 🌱 I’m currently learning java
 - 📫 How to reach me sudarshanshinde399@gmail.com
 
